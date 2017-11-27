@@ -1,0 +1,26 @@
+Log file created at: 2017/11/13 14:16:53
+Running on machine: DESKTOP-AE8576V
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+W1113 14:16:53.373003] Note that future Caffe releases will only support input layers and not input fields.
+W1113 14:16:55.059206] DEPRECATED: ForwardPrefilled() will be removed in a future version. Use Forward().
+W1113 14:17:42.058719] Note that future Caffe releases will only support input layers and not input fields.
+W1113 14:34:00.713990] Note that future Caffe releases will only support input layers and not input fields.
+W1113 14:34:52.841486] Note that future Caffe releases will only support input layers and not input fields.
+W1113 14:35:08.695911] Note that future Caffe releases will only support input layers and not input fields.
+W1113 14:35:52.958353] Note that future Caffe releases will only support input layers and not input fields.
+W1113 14:36:49.093421] Note that future Caffe releases will only support input layers and not input fields.
+W1113 14:37:17.697605] Note that future Caffe releases will only support input layers and not input fields.
+W1113 14:39:18.346041] Note that future Caffe releases will only support input layers and not input fields.
+W1113 14:39:51.468711] Note that future Caffe releases will only support input layers and not input fields.
+W1113 14:40:56.021049] Note that future Caffe releases will only support input layers and not input fields.
+W1113 14:47:28.804169] DEPRECATED: ForwardPrefilled() will be removed in a future version. Use Forward().
+W1113 17:51:45.866914] DEPRECATED: ForwardPrefilled() will be removed in a future version. Use Forward().
+W1113 17:56:12.484078] DEPRECATED: ForwardPrefilled() will be removed in a future version. Use Forward().
+W1114 19:37:27.036577] Note that future Caffe releases will only support input layers and not input fields.
+W1114 19:44:50.459064] Note that future Caffe releases will only support input layers and not input fields.
+W1114 19:46:05.130748] Note that future Caffe releases will only support input layers and not input fields.
+W1114 19:51:03.392258] Note that future Caffe releases will only support input layers and not input fields.
+W1114 19:54:07.582106] DEPRECATED: ForwardPrefilled() will be removed in a future version. Use Forward().
+W1114 19:56:53.875605] Note that future Caffe releases will only support input layers and not input fields.
+W1114 19:58:15.032754] Note that future Caffe releases will only support input layers and not input fields.
+W1114 20:02:03.804878] Note that future Caffe releases will only support input layers and not input fields.
